@@ -33,16 +33,16 @@ h6 {
     font-size: 1.05rem;
 }
 
+.white {
+    color: white;
+}
+
 .grey {
     color: gray;
 }
 
 .darckcian {
     color: darkcyan;
-}
-
-.white {
-    color: white;
 }
 
 .section-1 {
@@ -75,10 +75,6 @@ body {
     margin: 0;
 }
 
-.padding-m {
-    padding: 2.5%;
-}
-
 img {
     height: 40vw;
     object-fit: cover;
@@ -86,12 +82,12 @@ img {
     width: 100%;
 }
 
-.grow {
-    font-size: 300%;
+.padding-m {
+    padding: 2.5%;
 }
 
-.helps {
-    font-size: 250%;
+.grow {
+    font-size: 300%;
 }
 
 .have {
@@ -102,6 +98,9 @@ img {
     font-size: 70%;
 }
 
+.helps {
+    font-size: 250%;
+}
 
 /* Clear floats after the columns */
 
